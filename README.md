@@ -8,6 +8,8 @@ For further reference, please consider the following sections:
 ### Guides
 The following guides illustrate how to use some features concretely:
 
+ [reference on frontend](https://github.com/IBryt/Angular7-client-palindrome) 
+
 mvn spring-boot:run
 
 * [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
